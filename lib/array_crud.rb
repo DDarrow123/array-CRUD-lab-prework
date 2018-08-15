@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  #array = ["arg1" , "arg2" , "arg3"]
+  
   array << "arrays!"
 end
 
